@@ -4,6 +4,7 @@
 
 - Baixar a GraalVM (`sdk install java 20.2.0.r11-grl`)
 - Utilizar essa versão para a sessão atual do terminal (`sdk use java 20.2.0.r11-grl`)
+- Instalar o GraalVM Native Image (`gu install native-image`)
 - Abrir a raiz do projeto e dar permissão de execução para o script compile.sh (`chmod +x compile.sh`)
 - **Recomendado**: Dar permissão de leitura e gravação para o projeto completo.
 
